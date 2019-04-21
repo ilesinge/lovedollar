@@ -1,0 +1,5 @@
+websocket-client
+colorful
+requests
+python-osc
+asyncio
