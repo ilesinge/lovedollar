@@ -1,7 +1,7 @@
 TOOL FOR CRYPTO-CAPITALIST MUSIC
 ================================
 
-Get live trades from cryptocurreny marketplaces, and send OSC commands to a server. Tought to be used with Tidal Cycles.
+Get live trades from cryptocurreny marketplaces, and send OSC commands to a server while displaying trade data. Tought to be used with Tidal Cycles.
 
 OSC commands examples
 ---------------------
